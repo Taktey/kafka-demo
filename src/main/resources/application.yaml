@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: "kafka-demo"
+kafka:
+  topic: my_first_topic
+server:
+  port: 8080
